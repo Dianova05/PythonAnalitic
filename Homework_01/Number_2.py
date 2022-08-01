@@ -7,7 +7,6 @@ def comp_elements(a: list, b: list):
             if elemA == elemB:
                 print(elemA)
 
-
 list_1 = input("Введите первый список: ").split()
 list_2 = input("Введите второй список: ").split()
 
