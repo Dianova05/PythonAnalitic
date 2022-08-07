@@ -1,4 +1,3 @@
-# This Python file uses the following encoding: utf-8
 # Написать функцию для нахождения одинаковых элементов в двух списках.
 
 def comp_elements(a: list, b: list):
